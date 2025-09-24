@@ -1,0 +1,11 @@
+.cem-event-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.cem-event {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    background: #f9f9f9;
+}
